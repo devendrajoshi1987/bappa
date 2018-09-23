@@ -1,0 +1,25 @@
+1. Learn about the hashtag#pause container in kubernetes.
+
+https://lnkd.in/evTJSiV
+
+2. Learn about pod-to-pod, pod-to-service and external-to-pod networking concepts.
+
+https://lnkd.in/e_iPnaY
+https://lnkd.in/eGZBhUt
+https://lnkd.in/eCkyCS2
+
+3. Learn about CNI in more detail.
+
+https://lnkd.in/ehhPyT9
+
+4. Learn about pod-to-pod and namespace network security using network policy in kubernetes.
+
+https://lnkd.in/e8b8WzJ
+
+5. Download this free ebook to understand kubernetes and docker networking concepts.
+
+https://lnkd.in/e3ivRkb
+
+
+If you find these resources useful then share with more people.
+
